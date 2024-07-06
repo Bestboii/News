@@ -1,0 +1,9 @@
+SERVERALERT:
+<html>
+    <body>
+        <h1 align="center">ALERT TEXT</h1>
+        <p>
+            TEST MESSAGE
+        </p>
+    </body>
+</html>
