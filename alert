@@ -1,22 +1,25 @@
 SERVERALERT:
-<html>
-    <body>
-<p>&nbsp;</p>
-<h2>Discord:</h2>
-<p>Join our Discord for Support, News &amp; more!</p>
-<p><a href="https://discord.gg/vuEm7hcdxn" target="_blank" rel="noopener noreferrer">https://discord.gg/vuEm7hcdxn</a></p>
-<p>&nbsp;</p>
-<h2>Current WiP:</h2>
-<p>World: <span style="color: #ff0000;"><span style="color: #00ff00;">::::::::::::::</span>::::::</span> 70%</p>
-<p>Dungeons: <span style="color: #ff0000;"><span style="color: #00ff00;">:::::::::::</span>:::::::::</span> 55%</p>
-<p>Raids: <span style="color: #ff0000;">::::::::::::::::::::</span> 0%</p>
-<p>Quests: <span style="color: #ff0000;"><span style="color: #00ff00;">::::::::::::::::</span>::::</span> 80%</p>
-<p>Finetuning: <span style="color: #ff0000;"><span style="color: #00ff00;">::::::</span>::::::::::::::</span> 30%</p>
-<p>Events: <span style="color: #ff0000;"><span style="color: #00ff00;">:::<span style="color: #ff0000;">::::::::</span></span>:::::::::</span> 15%</p>
-<p>Professions: <span style="color: #ff0000;">::::::::::::::::::::</span> 0%</p>
-<p>Gear: <span style="color: #ff0000;"><span style="color: #00ff00;">::<span style="color: #ff0000;">:::::::::</span></span>:::::::::</span> 10%</p>
-<p>Leveling: <span style="color: #ff0000;"><span style="color: #00ff00;">::::::::::::::::::::</span></span> 100%</p>
-<p>Classes: <span style="color: #ff0000;"><span style="color: #00ff00;">::::::::::::::::::::</span></span> 100%</p>
-<p>&nbsp;</p>
-    </body>
-</html>
+ <html>
+     <body>
+         <h2 align="center">Discord</h2>
+         <p>
+             Join our Discord for Support, News & more!
+             https://discord.gg/vuEm7hcdxn
+           
+           
+         </p>
+         <h2 align="center">Current WiP:</h2>
+         <p>
+            World: 70%
+            Dungeons: 55%
+            Raids: 0%
+            Quests: 80%
+            Finetuning: 30%
+            Events: 15%
+            Professions: 0%
+            Gear: 10%
+            Leveling: 100%
+            Classes: 100%
+         </p>
+     </body>
+ </html>
