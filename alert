@@ -7,7 +7,7 @@ SERVERALERT:
 <h2 align="center">This is header style 2</h2>
 <h3 align="center">This is header style 3 (like paragraph style)<br /><br /></h3>
 <p align="left">Join our Discord for Support, News & more!</p>
-<p><br />Join with the Code: |cff8080ffvuEm7hcdxn|r or click on the Icon: |TInterface/Icons/INV_Misc_Coin_01:16:16:0:0:64:64:4:60:4:60|t|r <a href="https://discord.com/invite/vuEm7hcdxn">hyperlinks</a>!</p>
+<p><br />Join with the Code: |cff8080ffvuEm7hcdxn|r or click <a href="https://discord.com/invite/vuEm7hcdxn">|TInterface/Icons/INV_Misc_Coin_01:16:16:0:0:64:64:4:60:4:60|t</a>!</p>
 <br /><br />
 <h1 align="center">Current Progress</h1>
 <p align="left">World: |cff00ff00::::::::::::::|r|cffff0000::::::|r 70%</p> 
